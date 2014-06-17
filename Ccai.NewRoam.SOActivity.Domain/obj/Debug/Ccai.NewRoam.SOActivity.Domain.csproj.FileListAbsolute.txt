@@ -1,0 +1,9 @@
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\bin\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\bin\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\obj\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\obj\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\bin\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\bin\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\obj\Debug\Ccai.NewRoam.SOActivity.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\obj\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Domain\obj\Debug\Ccai.NewRoam.SOActivity.Domain.pdb

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ccai.NewRoam.SOActivity.Data.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException">
+            <summary>Shim type of Ccai.NewRoam.SOActivity.Data.Exception.CheckInCheckOutStateParseApplicationException</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.#ctor(Ccai.NewRoam.SOActivity.Data.Exception.CheckInCheckOutStateParseApplicationException)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.Constructor">
+            <summary>Sets the shim of CheckInCheckOutStateParseApplicationException.CheckInCheckOutStateParseApplicationException()</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimCheckInCheckOutStateParseApplicationException.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException">
+            <summary>Shim type of Ccai.NewRoam.SOActivity.Data.Exception.SOActivityTypeParseApplicationException</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.#ctor(Ccai.NewRoam.SOActivity.Data.Exception.SOActivityTypeParseApplicationException)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.Constructor">
+            <summary>Sets the shim of SOActivityTypeParseApplicationException.SOActivityTypeParseApplicationException()</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Exception.Fakes.ShimSOActivityTypeParseApplicationException.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository">
+            <summary>Shim type of Ccai.NewRoam.SOActivity.Data.SOActivityRepository</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.#ctor(Ccai.NewRoam.SOActivity.Data.SOActivityRepository)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.Bind(Ccai.NewRoam.SOActivity.Data.ISOActivityRepository)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.Constructor">
+            <summary>Sets the shim of SOActivityRepository.SOActivityRepository()</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.ConvertToSOActivityEventSqlDataReader">
+            <summary>Sets the shim of SOActivityRepository.ConvertToSOActivityEvent(SqlDataReader dataReader)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.GetSOActivitySessionDateTime">
+            <summary>Sets the shim of SOActivityRepository.GetSOActivitySession(DateTime sessionDate)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.ReadStringSqlParameterArrayActionOfSqlDataReader">
+            <summary>Sets the shim of SOActivityRepository.Read(String sql, SqlParameter[] sqlParams, Action`1&lt;SqlDataReader&gt; onEachRow)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.SaveSOActivitySessionSOActivitySession">
+            <summary>Sets the shim of SOActivityRepository.SaveSOActivitySession(SOActivitySession session)</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.AllInstances.ConvertToSOActivityEventSqlDataReader">
+            <summary>Sets the shim of SOActivityRepository.ConvertToSOActivityEvent(SqlDataReader dataReader)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.AllInstances.GetSOActivitySessionDateTime">
+            <summary>Sets the shim of SOActivityRepository.GetSOActivitySession(DateTime sessionDate)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.AllInstances.ReadStringSqlParameterArrayActionOfSqlDataReader">
+            <summary>Sets the shim of SOActivityRepository.Read(String sql, SqlParameter[] sqlParams, Action`1&lt;SqlDataReader&gt; onEachRow)</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.ShimSOActivityRepository.AllInstances.SaveSOActivitySessionSOActivitySession">
+            <summary>Sets the shim of SOActivityRepository.SaveSOActivitySession(SOActivitySession session)</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository">
+            <summary>Stub type of Ccai.NewRoam.SOActivity.Data.ISOActivityRepository</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository.#ctor">
+            <summary>Initializes a new instance of type StubISOActivityRepository</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository.cnrsoad::Ccai#NewRoam#SOActivity#Data#ISOActivityRepository#GetSOActivitySession(System.DateTime)">
+            <summary>Sets the stub of ISOActivityRepository.GetSOActivitySession(DateTime sessionDate)</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository.cnrsoad::Ccai#NewRoam#SOActivity#Data#ISOActivityRepository#SaveSOActivitySession(Ccai.NewRoam.SOActivity.Domain.SOActivitySession)">
+            <summary>Sets the stub of ISOActivityRepository.SaveSOActivitySession(SOActivitySession session)</summary>
+        </member>
+        <member name="F:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository.GetSOActivitySessionDateTime">
+            <summary>Sets the stub of ISOActivityRepository.GetSOActivitySession(DateTime sessionDate)</summary>
+        </member>
+        <member name="F:Ccai.NewRoam.SOActivity.Data.Fakes.StubISOActivityRepository.SaveSOActivitySessionSOActivitySession">
+            <summary>Sets the stub of ISOActivityRepository.SaveSOActivitySession(SOActivitySession session)</summary>
+        </member>
+        <member name="T:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository">
+            <summary>Stub type of Ccai.NewRoam.SOActivity.Data.SOActivityRepository</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository.InitializeStub">
+            <summary>Initializes a new instance of type StubSOActivityRepository</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Ccai.NewRoam.SOActivity.Data.Fakes.StubSOActivityRepository.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Data.dll
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Data.pdb
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.csprojResolveAssemblyReference.cache
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.SqlStatements.resources
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.csproj.GenerateResource.Cache
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.dll
+F:\OneDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.pdb
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Data.dll
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Data.pdb
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\bin\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.csprojResolveAssemblyReference.cache
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.dll
+C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Data\obj\Debug\Ccai.NewRoam.SOActivity.Data.pdb
