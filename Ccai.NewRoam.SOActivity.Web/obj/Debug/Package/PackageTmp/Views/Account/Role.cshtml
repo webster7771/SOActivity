@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts
+{
+    <script type="text/javascript" src="~/Scripts/App/Role.js"></script>
+}
+
+@section styles
+{
+    <style>
+        #errorContent {
+            color: red;
+            text-align: center;
+        }
+        .hidden {
+            display: none;
+        }
+        #div-new-message {
+            color: red;
+            text-align: center;
+        }
+    </style>
+}
+
+@section Header {
+    <h1>@ViewBag.Title</h1>
+    @Html.Partial("_LoginPartial")
+    <a href="#" data-icon="plus" id="menu-new" data-menuname="new">New</a>
+}
+
+<div id="div-roles" class="hidden">
+    <ul data-role="listview" data-split-theme="a">
+    </ul>
+</div>
+<div id="div-error" class="hidden">
+</div>
+<div id="div-new" class="hidden">
+    <div data-role="fieldcontain" class="ui-hide-label">
+	    <label for="rolename">Role:</label>
+	    <input type="text" name="rolename" id="rolename" value="" placeholder="Role"/>
+    </div>
+    <button type="button" id="createNewRole" value="Create"></button>
+    <div id="div-new-message"></div>
+</div>

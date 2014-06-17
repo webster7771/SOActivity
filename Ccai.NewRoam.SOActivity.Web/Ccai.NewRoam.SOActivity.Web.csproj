@@ -223,7 +223,9 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <None Include="Properties\PublishProfiles\ccaicdewh - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\ccaicdewh - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ccaicdewh - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\ccaicdewh - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\App\About.js" />
@@ -289,7 +291,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>3050</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:12967/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
