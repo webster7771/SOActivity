@@ -134,3 +134,5 @@ D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\bin\zh-Hant\System.Spatial.re
 D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\obj\Debug\Ccai.NewRoam.SOActivity.Web.csprojResolveAssemblyReference.cache
 D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\obj\Debug\Ccai.NewRoam.SOActivity.Web.dll
 D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\obj\Debug\Ccai.NewRoam.SOActivity.Web.pdb
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\bin\Ccai.NewRoam.SOActivity.Web.dll.CodeAnalysisLog.xml
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Web\bin\Ccai.NewRoam.SOActivity.Web.dll.lastcodeanalysissucceeded

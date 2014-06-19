@@ -18,3 +18,16 @@ C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SO
 C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.csprojResolveAssemblyReference.cache
 C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.dll
 C:\Users\Oetawan\SkyDrive\Documents\CCAI\Ccai.NewRoam.SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.pdb
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Service.dll
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Service.pdb
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Service.dll.CodeAnalysisLog.xml
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Service.dll.lastcodeanalysissucceeded
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Data.dll
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Domain.dll
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\log4net.dll
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Data.pdb
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Domain.pdb
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\log4net.xml
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.csprojResolveAssemblyReference.cache
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.dll
+D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\obj\Debug\Ccai.NewRoam.SOActivity.Service.pdb

@@ -16,7 +16,7 @@ namespace Ccai.NewRoam.SOActivity.Data
     /// This class is the Data Access Object that retrieves data from database and convert it to Domain Model and stores Domain Model state to database.
     /// It uses repository pattern.
     /// </summary>
-    public class SOActivityRepository: ISOActivityRepository
+    public class SOActivityRepository: ISOActivityRepository, IDisposable
     {
         #region Constant
 
@@ -179,5 +179,13 @@ namespace Ccai.NewRoam.SOActivity.Data
         }
 
         #endregion
+
+        public void Dispose()
+        {
+            if (_cn.State != ConnectionState.Closed)
+            {
+                _cn.Close();
+            }
+        }
     }
 }

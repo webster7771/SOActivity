@@ -9,6 +9,7 @@ namespace Ccai.NewRoam.SOActivity.Data.Exception
     /// <summary>
     /// This exception occur when repository failed convert CheckInCheckOutState field in database to CheckInCheckOutState enum.
     /// </summary>
+    [Serializable]
     public sealed class CheckInCheckOutStateParseApplicationException: ApplicationException
     {
         public CheckInCheckOutStateParseApplicationException() :

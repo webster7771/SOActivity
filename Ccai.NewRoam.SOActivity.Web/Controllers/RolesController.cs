@@ -36,6 +36,9 @@ namespace Ccai.NewRoam.SOActivity.Web.Controllers
         // POST api/accountapi
         public void Post(RoleModel role)
         {
+            
+            SetRole(role);
+            
             if (ModelState.IsValid)
             {
                 Roles.CreateRole(role.RoleName);
@@ -54,6 +57,26 @@ namespace Ccai.NewRoam.SOActivity.Web.Controllers
         // DELETE api/accountapi/5
         public void Delete(int id)
         {
+        }
+
+        private void SetRole(RoleModel role)
+        {
+        }
+
+        private RoleModel GetRole()
+        {
+            return new RoleModel { 
+                RoleName = "Administrator"
+            };
+        }
+
+        private void SetRoleObj(Object role)
+        {
+        }
+
+        private Object GetRoleObj()
+        {
+            return GetRole();
         }
     }
 }

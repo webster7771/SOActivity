@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="D:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service\bin\Debug\Ccai.NewRoam.SOActivity.Service.dll">
+   <Modules>
+    <Module Name="ccai.newroam.soactivity.service.dll">
+     <Namespaces>
+      <Namespace Name="Ccai.NewRoam.SOActivity.Service">
+       <Types>
+        <Type Name="SOActivityService" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CheckIn(System.DateTime,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2014-06-18 18:03:18Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="70">'SOActivityService.CheckIn(DateTime, string)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="75">'SOActivityService.CheckIn(DateTime, string)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="80">'SOActivityService.CheckIn(DateTime, string)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CheckOut(System.DateTime)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2014-06-18 18:03:18Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="99">'SOActivityService.CheckOut(DateTime)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="104">'SOActivityService.CheckOut(DateTime)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetSession(System.DateTime)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2014-06-18 18:03:18Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="40">'SOActivityService.GetSession(DateTime)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="45">'SOActivityService.GetSession(DateTime)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+             <Issue Certainty="95" Level="Error" Path="d:\Projects\SOActivity\Ccai.NewRoam.SOActivity.Service" File="SOActivityService.cs" Line="50">'SOActivityService.GetSession(DateTime)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>Rethrow to preserve stack details</Name>
+   <Description>Use the IL rethrow instruction to preserve original stack details when re-raising a caught exception.</Description>
+   <Resolution Name="Default">{0} rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182363(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>
